@@ -16,7 +16,8 @@ and honest about what it can (and can't) measure.
   on Solana: an E2EE messenger (Signal protocol), an on-chain marketplace, and a community fund.
 - **[dart-signal-protocol](https://github.com/kennss/dart-signal-protocol)** — a pure-Dart
   implementation of the Signal Protocol, with zero native dependencies.
-- **HWPad** — an iPad HWP / HWPX document viewer with Apple Pencil annotation (built on rhwp).
+- **[HWPad](https://github.com/kennss/hwpad)** — an iPad HWP / HWPX document viewer with
+  Apple Pencil annotation, built on the rhwp engine. Free on the App Store; MIT.
 
 #### Focus
 
