@@ -17,7 +17,7 @@ and honest about what it can (and can't) measure.
 - **[dart-signal-protocol](https://github.com/kennss/dart-signal-protocol)** — a pure-Dart
   implementation of the Signal Protocol, with zero native dependencies.
 - **[HWPad](https://github.com/kennss/hwpad)** — an iPad HWP / HWPX document viewer with
-  Apple Pencil annotation, built on the rhwp engine. Free on the App Store; MIT.
+  Apple Pencil annotation, built on the rhwp engine. MIT; [free on the App Store](https://apps.apple.com/app/id6773033442).
 
 #### Focus
 
