@@ -16,8 +16,9 @@ and honest about what it can (and can't) measure.
   back up only what's *precious* (your source), not the whole system. APFS snapshots, in-app
   restore, scheduled/realtime, NAS.
 - **[Spectalo](https://spectalo.calidalab.ai)** — on-device AI video player: Whisper subtitles
-  + translation, entirely on your Mac/iPad. *(with **SpectaLing**, an on-device transcription
-  app — a MacWhisper alternative.)*
+  + translation, entirely on your Mac/iPad.
+- **[SpectaLing](https://spectaling.calidalab.ai)** — on-device transcription + live translation
+  for Mac/iPad — a privacy-first MacWhisper alternative.
 - **[HWPad](https://github.com/kennss/hwpad)** — iPad HWP/HWPX viewer + Apple Pencil annotation,
   on the rhwp engine. [Free on the App Store](https://apps.apple.com/app/id6773033442).
 
