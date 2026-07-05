@@ -1,5 +1,7 @@
 ### Hi, I'm Kennt 👋
 
+🌐 **Homepage — [www.calidalab.ai](https://www.calidalab.ai)**
+
 Architect and builder of **privacy-first, on-device software** — Apple-Silicon-native tools,
 end-to-end-encrypted messaging, and document tooling. Founder of **[Calida Lab](https://calidalab.ai)**.
 
