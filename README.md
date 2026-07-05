@@ -35,4 +35,11 @@ and honest about what it can (and can't) measure.
 
 On-device AI · Apple Silicon · end-to-end encryption · document tooling · local-first, sovereign systems.
 
+#### 📈 Activity
+
+<div align="center">
+  <img width="98%" alt="Contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kennss&bg_color=0A0A0A&color=ECECEC&line=F5B301&point=F5B301&area=true&area_color=F5B301&hide_border=true&custom_title=Contribution%20Activity" />
+</div>
+
 > *Privacy by architecture, not policy. Nothing leaves your device.*
