@@ -2,6 +2,9 @@
 
 [![Website](https://img.shields.io/badge/Website-www.calidalab.ai-f5b301?style=for-the-badge&labelColor=0A0A0A&logo=safari&logoColor=f5b301)](https://www.calidalab.ai)
 
+> ### 👉 New here? Start with **[SiliconScope](https://siliconscope.calidalab.ai)** — free &amp; sudoless.
+> [![stars](https://img.shields.io/github/stars/kennss/SiliconScope?style=flat&logo=github&label=stars&color=f5b301&labelColor=0A0A0A)](https://github.com/kennss/SiliconScope) &nbsp; [![downloads](https://img.shields.io/github/downloads/kennss/SiliconScope/total?style=flat&logo=github&label=downloads&color=f5b301&labelColor=0A0A0A)](https://github.com/kennss/SiliconScope/releases) &nbsp;·&nbsp; localized in **6 languages** &nbsp;·&nbsp; featured by *applech2* (JP) · *ifun.de* (DE) · *GitHubDaily* (CN)
+
 Architect and builder of **privacy-first, on-device software** — Apple-Silicon-native tools,
 end-to-end-encrypted messaging, and document tooling. Founder of **[Calida Lab](https://calidalab.ai)**.
 
@@ -14,6 +17,7 @@ and honest about what it can (and can't) measure.
 - **[SiliconScope](https://github.com/kennss/SiliconScope)** — a sudoless Apple-Silicon system
   monitor (native SwiftUI) with first-class **ANE / Media Engine / memory-bandwidth** tracking
   and a local-LLM "AI Workload" cockpit. Signed & notarized. · [site](https://siliconscope.calidalab.ai)
+  <br />[![stars](https://img.shields.io/github/stars/kennss/SiliconScope?style=flat&logo=github&label=stars&color=f5b301&labelColor=0A0A0A)](https://github.com/kennss/SiliconScope) [![downloads](https://img.shields.io/github/downloads/kennss/SiliconScope/total?style=flat&logo=github&label=downloads&color=f5b301&labelColor=0A0A0A)](https://github.com/kennss/SiliconScope/releases)
 - **[SpectArk](https://github.com/kennss/SpectArk)** — versioned incremental backup for macOS:
   back up only what's *precious* (your source), not the whole system. APFS snapshots, in-app
   restore, scheduled/realtime, NAS.
