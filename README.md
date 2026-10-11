@@ -44,9 +44,6 @@ On-device AI · Apple Silicon · end-to-end encryption · document tooling · lo
 <div align="center">
   <img height="160" alt="GitHub stats" src="https://github-readme-stats-three-gamma-58.vercel.app/api?username=kennss&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0A0A0A&title_color=F5B301&icon_color=F5B301&text_color=ECECEC&rank_icon=github" />
   <img height="160" alt="Top languages" src="https://github-readme-stats-three-gamma-58.vercel.app/api/top-langs/?username=kennss&layout=compact&langs_count=8&hide_border=true&bg_color=0A0A0A&title_color=F5B301&text_color=ECECEC" />
-  <br /><br />
-  <img width="98%" alt="Contribution activity graph"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kennss&bg_color=0A0A0A&color=ECECEC&line=F5B301&point=F5B301&area=true&area_color=F5B301&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 > *Privacy by architecture, not policy. Nothing leaves your device.*
